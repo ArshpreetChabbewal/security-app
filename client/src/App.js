@@ -14,7 +14,7 @@ function App() {
     <Signup/>
     <Alert/>
     <Home/>
-    <Map/>   
+    <Map/>
   </div>;
 }
 
